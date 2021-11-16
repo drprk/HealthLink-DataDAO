@@ -2,7 +2,10 @@
 
 Hackathon Project Documentation:
 
-Gdrive link: https://docs.google.com/document/d/1XORrWfzgkVQfXQBQJTfy0EF1yKGP9w1AVpgxDH9yVl0/edit#
+Gdrive link:
+
+Health Data DAO: https://docs.google.com/document/d/1XORrWfzgkVQfXQBQJTfy0EF1yKGP9w1AVpgxDH9yVl0/edit#
+Builder notes: https://docs.google.com/document/d/1CpGUWm_CR9pYegYfhJNbZHIxRP0LmV6_WVjabtAPNQk/edit
 
 Project: 
 
